@@ -1,0 +1,131 @@
+.bar {
+position: absolute;
+width: 284px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+background: #4F3838;
+}
+
+.bar_nad {
+ position: absolute;
+width: 275px;
+height: 50px;
+left: 5px;
+top: 27px;
+
+font-family: 'Kenia';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 50px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+.b1 {
+ position: absolute;
+width: 274px;
+height: 700px;
+left: 5px;
+top: 110px;
+
+background: #C4C4C4; 
+  font-family: 'Kenia';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 32px;
+
+/* identical to box height */
+
+color: #000000;
+
+
+}
+
+.pod {
+ position: absolute;
+width: 200px;
+height: 50px;
+left: 42px;
+top: 1030px;
+
+font-family: 'Kenia';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 50px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+
+ 
+}
+
+.nrp_fr_hlp {
+ 
+position: absolute;
+width: 503px;
+height: 39px;
+left: 851px;
+top: 19px;
+
+font-family: 'Kenia';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 50px;
+
+color: #FFFFFF;
+
+ 
+}
+
+.bar2 {
+  
+  position: absolute;
+width: 1636px;
+height: 77px;
+left: 284px;
+top: 0px;
+
+background: #4F3838;
+  
+}
+
+.in_dev {
+  
+  position: absolute;
+width: 893px;
+height: 178px;
+left: 651px;
+top: 382px;
+
+background: #110303;
+border-radius: 30px;
+}
+.indev {
+  
+  position: absolute;
+width: 824px;
+height: 128px;
+left: 690px;
+top: 412px;
+
+font-family: 'Kenia';
+font-style: normal;
+font-weight: 400;
+font-size: 128px;
+line-height: 128px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+
+border: 1px solid #FFFFFF;
+}
