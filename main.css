@@ -25,7 +25,19 @@ line-height: 50px;
 
 color: #FFFFFF;
 }
+.txt_style {
+ 
+background: #C4C4C4; 
+  font-family: 'Kenia';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 32px;
 
+/* identical to box height */
+
+color: #000000;
+}
 .b1 {
  position: absolute;
 width: 274px;
