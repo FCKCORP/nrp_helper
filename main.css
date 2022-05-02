@@ -1,7 +1,7 @@
 .bar {
 position: absolute;
-width: 284px;
-height: 1080px;
+width: 320px;
+height: 1220;
 left: 0px;
 top: 0px;
 
@@ -9,11 +9,12 @@ background: #4F3838;
 }
 
 .gradient-button {
+  width: 150px;
   text-decoration: none;
   display: inline-block;
-  color: white;
+  color: black;
   padding: 20px 30px;
-  margin: 10px 20px;
+  margin: 1px 20px;
   border-radius: 10px;
   font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
